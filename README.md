@@ -9,7 +9,7 @@
 
 • 🎯 High self-disciplined with a constant drive for professional excellence.
 
-• 🏆 I recently built a clone of Trello, check it out, it has everything! [TaskedIn](https://taskedin-new.onrender.com/)
+• 🏆 I recently built a clone of Trello, check it out, it has everything! [TaskedIn](https://taskedin.onrender.com/)
 
 • 📫 You can reach me at **eli.shallev50@gmail.com**
 
